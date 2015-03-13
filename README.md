@@ -1,4 +1,5 @@
 # Test
-This is another branch(2)
+
+Master of Branch 2
 
 Hello
